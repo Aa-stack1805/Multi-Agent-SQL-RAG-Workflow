@@ -1,4 +1,4 @@
-# 🚀 Multi-Agent Workflow System
+# 🚀 Multi-Agent SQL RAG Workflow System
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Latest-green.svg)](https://github.com/langchain-ai/langgraph)
@@ -335,35 +335,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **ChromaDB**: For the vector database capabilities
 - **Statsmodels**: For robust time series forecasting
 - **Superstore Dataset**: Sample data for demonstration
-
-## 📞 **Support**
-
-- **Issues**: [GitHub Issues](https://github.com/your-username/multi-agent-workflow-system/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/multi-agent-workflow-system/discussions)
-- **Email**: your-email@example.com
-
-## 🔮 **Roadmap**
-
-### Upcoming Features
-- [ ] **Web Interface**: Streamlit/FastAPI web dashboard
-- [ ] **More Forecasting Models**: ARIMA, Prophet, Neural Networks
-- [ ] **Advanced Analytics**: Clustering, anomaly detection
-- [ ] **Export Capabilities**: PDF reports, Excel dashboards
-- [ ] **Multi-Database Support**: PostgreSQL, MySQL, BigQuery
-- [ ] **Real-time Data**: Streaming data ingestion
-- [ ] **A/B Testing**: Experiment tracking and analysis
-
-### Version History
-- **v1.0.0**: Initial release with basic multi-agent functionality
-- **v1.1.0**: Enhanced forecasting capabilities
-- **v1.2.0**: Improved RAG system and knowledge base
-- **v1.3.0**: Advanced error handling and fallback mechanisms
-
----
-
-## 🌟 **Star History**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/multi-agent-workflow-system&type=Date)](https://star-history.com/#your-username/multi-agent-workflow-system&Date)
 
 ---
 
